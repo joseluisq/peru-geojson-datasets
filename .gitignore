@@ -1,0 +1,7 @@
+*
+
+!*.gitignore
+!*.geojson
+!*.md
+!*-APACHE
+!*-MIT
